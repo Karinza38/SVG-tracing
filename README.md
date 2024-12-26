@@ -1,4 +1,4 @@
-# SVGcode: A PWA to Convert Raster Images to SVG Vector Graphics
+SVGcode: A PWA to Convert Raster Images to SVG Vector Graphics
 
 SVGcode is a Progressive Web App that lets you convert raster images like JPG,
 PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format. It uses the File
